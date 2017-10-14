@@ -3,3 +3,5 @@
 ################################################################################
 
 /CsharpPoker/bin/Debug/netcoreapp2.0
+/CsharpPoker/obj
+/.vs/CsharpPoker/v15/sqlite3
